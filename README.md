@@ -5,7 +5,7 @@
 This project implements and compares three pathfinding algorithms:
 
 - **Breadth-First Search (BFS)**: breadth-first exploration.
-- **A-Star Search (A*)**: informed search using Euclidean distance as a heuristic.
+- **A-Star Search (A\*)**: informed search using Euclidean distance as a heuristic.
 - **Hill-Climbing**: optimized local search.
 
 The objective is to analyze their performance on different obstacle configurations.
